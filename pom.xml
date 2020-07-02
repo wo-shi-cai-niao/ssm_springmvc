@@ -114,7 +114,7 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>5.1.38</version>
+      <version>8.0.16</version>
     </dependency>
     <!-- spring管理组件时候需要插件使struts的配置文件能是别spring中的标识 -->
     <dependency>
