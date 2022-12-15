@@ -82,7 +82,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.0.4.RELEASE</version>
+      <version>5.2.20.RELEASE</version>
     </dependency>
     <!--  引入json相关依赖,@ResponseBody这个注解生效需要引入Jackson相关依赖-->
     <dependency>
